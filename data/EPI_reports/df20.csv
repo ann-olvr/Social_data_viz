@@ -1,0 +1,181 @@
+,code,iso,Country,region,EPI,Year
+0,4.0,AFG,Afghanistan,Southern Asia,25.5,2020
+1,24.0,AGO,Angola,Sub-Saharan Africa,29.7,2020
+2,8.0,ALB,Albania,Eastern Europe,49.0,2020
+3,784.0,ARE,United Arab Emirates,Greater Middle East,55.6,2020
+4,32.0,ARG,Argentina,Latin America & Caribbean,52.2,2020
+5,51.0,ARM,Armenia,Former Soviet States,52.3,2020
+6,28.0,ATG,Antigua and Barbuda,Latin America & Caribbean,48.5,2020
+7,36.0,AUS,Australia,Global West,74.9,2020
+8,40.0,AUT,Austria,Global West,79.6,2020
+9,31.0,AZE,Azerbaijan,Former Soviet States,46.5,2020
+10,108.0,BDI,Burundi,Sub-Saharan Africa,27.0,2020
+11,56.0,BEL,Belgium,Global West,73.3,2020
+12,204.0,BEN,Benin,Sub-Saharan Africa,30.0,2020
+13,854.0,BFA,Burkina Faso,Sub-Saharan Africa,38.3,2020
+14,50.0,BGD,Bangladesh,Southern Asia,29.0,2020
+15,100.0,BGR,Bulgaria,Eastern Europe,57.0,2020
+16,48.0,BHR,Bahrain,Greater Middle East,51.0,2020
+17,44.0,BHS,Bahamas,Latin America & Caribbean,43.5,2020
+18,70.0,BIH,Bosnia and Herzegovina,Eastern Europe,45.4,2020
+19,112.0,BLR,Belarus,Former Soviet States,53.0,2020
+20,84.0,BLZ,Belize,Latin America & Caribbean,41.9,2020
+21,68.0,BOL,Bolivia,Latin America & Caribbean,44.3,2020
+22,76.0,BRA,Brazil,Latin America & Caribbean,51.2,2020
+23,52.0,BRB,Barbados,Latin America & Caribbean,45.6,2020
+24,96.0,BRN,Brunei Darussalam,Asia-Pacific,54.8,2020
+25,64.0,BTN,Bhutan,Southern Asia,39.3,2020
+26,72.0,BWA,Botswana,Sub-Saharan Africa,40.4,2020
+27,140.0,CAF,Central African Republic,Sub-Saharan Africa,36.9,2020
+28,124.0,CAN,Canada,Global West,71.0,2020
+29,756.0,CHE,Switzerland,Global West,81.5,2020
+30,152.0,CHL,Chile,Latin America & Caribbean,55.3,2020
+31,156.0,CHN,China,Asia-Pacific,37.3,2020
+32,384.0,CIV,Cote d'Ivoire,Sub-Saharan Africa,25.8,2020
+33,120.0,CMR,Cameroon,Sub-Saharan Africa,33.6,2020
+34,180.0,COD,Dem. Rep. Congo,Sub-Saharan Africa,36.4,2020
+35,178.0,COG,Republic of Congo,Sub-Saharan Africa,30.8,2020
+36,170.0,COL,Colombia,Latin America & Caribbean,52.9,2020
+37,174.0,COM,Comoros,Sub-Saharan Africa,32.1,2020
+38,132.0,CPV,Cabo Verde,Sub-Saharan Africa,32.8,2020
+39,188.0,CRI,Costa Rica,Latin America & Caribbean,52.5,2020
+40,192.0,CUB,Cuba,Latin America & Caribbean,48.4,2020
+41,196.0,CYP,Cyprus,Eastern Europe,64.8,2020
+42,203.0,CZE,Czech Republic,Eastern Europe,71.0,2020
+43,276.0,DEU,Germany,Global West,77.2,2020
+44,262.0,DJI,Djibouti,Sub-Saharan Africa,28.1,2020
+45,212.0,DMA,Dominica,Latin America & Caribbean,44.6,2020
+46,208.0,DNK,Denmark,Global West,82.5,2020
+47,214.0,DOM,Dominican Republic,Latin America & Caribbean,46.3,2020
+48,12.0,DZA,Algeria,Greater Middle East,44.8,2020
+49,218.0,ECU,Ecuador,Latin America & Caribbean,51.0,2020
+50,818.0,EGY,Egypt,Greater Middle East,43.3,2020
+51,232.0,ERI,Eritrea,Sub-Saharan Africa,30.4,2020
+52,724.0,ESP,Spain,Global West,74.3,2020
+53,233.0,EST,Estonia,Eastern Europe,65.3,2020
+54,231.0,ETH,Ethiopia,Sub-Saharan Africa,34.4,2020
+55,246.0,FIN,Finland,Global West,78.9,2020
+56,242.0,FJI,Fiji,Asia-Pacific,34.4,2020
+57,250.0,FRA,France,Global West,80.0,2020
+58,583.0,FSM,Micronesia,Asia-Pacific,33.0,2020
+59,266.0,GAB,Gabon,Sub-Saharan Africa,45.8,2020
+60,826.0,GBR,United Kingdom,Global West,81.3,2020
+61,268.0,GEO,Georgia,Former Soviet States,41.3,2020
+62,288.0,GHA,Ghana,Sub-Saharan Africa,27.6,2020
+63,324.0,GIN,Guinea,Sub-Saharan Africa,26.4,2020
+64,270.0,GMB,Gambia,Sub-Saharan Africa,27.9,2020
+65,624.0,GNB,Guinea-Bissau,Sub-Saharan Africa,29.1,2020
+66,226.0,GNQ,Equatorial Guinea,Sub-Saharan Africa,38.1,2020
+67,300.0,GRC,Greece,Eastern Europe,69.1,2020
+68,308.0,GRD,Grenada,Latin America & Caribbean,43.1,2020
+69,320.0,GTM,Guatemala,Latin America & Caribbean,31.8,2020
+70,328.0,GUY,Guyana,Latin America & Caribbean,35.9,2020
+71,340.0,HND,Honduras,Latin America & Caribbean,37.8,2020
+72,191.0,HRV,Croatia,Eastern Europe,63.1,2020
+73,332.0,HTI,Haiti,Latin America & Caribbean,27.0,2020
+74,348.0,HUN,Hungary,Eastern Europe,63.7,2020
+75,360.0,IDN,Indonesia,Asia-Pacific,37.8,2020
+76,356.0,IND,India,Southern Asia,27.6,2020
+77,372.0,IRL,Ireland,Global West,72.8,2020
+78,364.0,IRN,Iran,Greater Middle East,48.0,2020
+79,368.0,IRQ,Iraq,Greater Middle East,39.5,2020
+80,352.0,ISL,Iceland,Global West,72.3,2020
+81,376.0,ISR,Israel,Greater Middle East,65.8,2020
+82,380.0,ITA,Italy,Global West,71.0,2020
+83,388.0,JAM,Jamaica,Latin America & Caribbean,48.2,2020
+84,400.0,JOR,Jordan,Greater Middle East,53.4,2020
+85,392.0,JPN,Japan,Asia-Pacific,75.1,2020
+86,398.0,KAZ,Kazakhstan,Former Soviet States,44.7,2020
+87,404.0,KEN,Kenya,Sub-Saharan Africa,34.7,2020
+88,417.0,KGZ,Kyrgyzstan,Former Soviet States,39.8,2020
+89,116.0,KHM,Cambodia,Asia-Pacific,33.6,2020
+90,296.0,KIR,Kiribati,Asia-Pacific,37.7,2020
+91,410.0,KOR,South Korea,Asia-Pacific,66.5,2020
+92,414.0,KWT,Kuwait,Greater Middle East,53.6,2020
+93,418.0,LAO,Laos,Asia-Pacific,34.8,2020
+94,422.0,LBN,Lebanon,Greater Middle East,45.4,2020
+95,430.0,LBR,Liberia,Sub-Saharan Africa,22.6,2020
+96,662.0,LCA,Saint Lucia,Latin America & Caribbean,43.1,2020
+97,144.0,LKA,Sri Lanka,Southern Asia,39.0,2020
+98,426.0,LSO,Lesotho,Sub-Saharan Africa,28.0,2020
+99,440.0,LTU,Lithuania,Eastern Europe,62.9,2020
+100,442.0,LUX,Luxembourg,Global West,82.3,2020
+101,428.0,LVA,Latvia,Eastern Europe,61.6,2020
+102,504.0,MAR,Morocco,Greater Middle East,42.3,2020
+103,498.0,MDA,Moldova,Former Soviet States,44.4,2020
+104,450.0,MDG,Madagascar,Sub-Saharan Africa,26.5,2020
+105,462.0,MDV,Maldives,Southern Asia,35.6,2020
+106,484.0,MEX,Mexico,Latin America & Caribbean,52.6,2020
+107,584.0,MHL,Marshall Islands,Asia-Pacific,30.8,2020
+108,807.0,MKD,North Macedonia,Eastern Europe,55.4,2020
+109,466.0,MLI,Mali,Sub-Saharan Africa,29.4,2020
+110,470.0,MLT,Malta,Global West,70.7,2020
+111,104.0,MMR,Myanmar,Asia-Pacific,25.1,2020
+112,499.0,MNE,Montenegro,Eastern Europe,46.3,2020
+113,496.0,MNG,Mongolia,Asia-Pacific,32.2,2020
+114,508.0,MOZ,Mozambique,Sub-Saharan Africa,33.9,2020
+115,478.0,MRT,Mauritania,Sub-Saharan Africa,27.7,2020
+116,480.0,MUS,Mauritius,Sub-Saharan Africa,45.1,2020
+117,454.0,MWI,Malawi,Sub-Saharan Africa,38.3,2020
+118,458.0,MYS,Malaysia,Asia-Pacific,47.9,2020
+119,516.0,NAM,Namibia,Sub-Saharan Africa,40.2,2020
+120,562.0,NER,Niger,Sub-Saharan Africa,30.8,2020
+121,566.0,NGA,Nigeria,Sub-Saharan Africa,31.0,2020
+122,558.0,NIC,Nicaragua,Latin America & Caribbean,39.2,2020
+123,528.0,NLD,Netherlands,Global West,75.3,2020
+124,578.0,NOR,Norway,Global West,77.7,2020
+125,524.0,NPL,Nepal,Southern Asia,32.7,2020
+126,554.0,NZL,New Zealand,Global West,71.3,2020
+127,512.0,OMN,Oman,Greater Middle East,38.5,2020
+128,586.0,PAK,Pakistan,Southern Asia,33.1,2020
+129,591.0,PAN,Panama,Latin America & Caribbean,47.3,2020
+130,604.0,PER,Peru,Latin America & Caribbean,44.0,2020
+131,608.0,PHL,Philippines,Asia-Pacific,38.4,2020
+132,598.0,PNG,Papua New Guinea,Asia-Pacific,32.4,2020
+133,616.0,POL,Poland,Eastern Europe,60.9,2020
+134,620.0,PRT,Portugal,Global West,67.0,2020
+135,600.0,PRY,Paraguay,Latin America & Caribbean,46.4,2020
+136,634.0,QAT,Qatar,Greater Middle East,37.1,2020
+137,642.0,ROU,Romania,Eastern Europe,64.7,2020
+138,643.0,RUS,Russia,Former Soviet States,50.5,2020
+139,646.0,RWA,Rwanda,Sub-Saharan Africa,33.8,2020
+140,682.0,SAU,Saudi Arabia,Greater Middle East,44.0,2020
+141,729.0,SDN,Sudan,Greater Middle East,34.8,2020
+142,686.0,SEN,Senegal,Sub-Saharan Africa,30.7,2020
+143,702.0,SGP,Singapore,Asia-Pacific,58.1,2020
+144,90.0,SLB,Solomon Islands,Asia-Pacific,26.7,2020
+145,694.0,SLE,Sierra Leone,Sub-Saharan Africa,25.7,2020
+146,222.0,SLV,El Salvador,Latin America & Caribbean,43.1,2020
+147,688.0,SRB,Serbia,Eastern Europe,55.2,2020
+148,678.0,STP,Sao Tome and Principe,Sub-Saharan Africa,37.6,2020
+149,740.0,SUR,Suriname,Latin America & Caribbean,45.2,2020
+150,703.0,SVK,Slovakia,Eastern Europe,68.3,2020
+151,705.0,SVN,Slovenia,Eastern Europe,72.0,2020
+152,752.0,SWE,Sweden,Global West,78.7,2020
+153,748.0,SWZ,Eswatini,Sub-Saharan Africa,33.8,2020
+154,690.0,SYC,Seychelles,Sub-Saharan Africa,58.2,2020
+155,148.0,TCD,Chad,Sub-Saharan Africa,26.7,2020
+156,768.0,TGO,Togo,Sub-Saharan Africa,29.5,2020
+157,764.0,THA,Thailand,Asia-Pacific,45.4,2020
+158,762.0,TJK,Tajikistan,Former Soviet States,38.2,2020
+159,795.0,TKM,Turkmenistan,Former Soviet States,43.9,2020
+160,626.0,TLS,Timor-Leste,Asia-Pacific,35.3,2020
+161,776.0,TON,Tonga,Asia-Pacific,45.1,2020
+162,780.0,TTO,Trinidad and Tobago,Latin America & Caribbean,47.5,2020
+163,788.0,TUN,Tunisia,Greater Middle East,46.7,2020
+164,792.0,TUR,Turkey,Eastern Europe,42.6,2020
+165,158.0,TWN,Taiwan,Asia-Pacific,57.2,2020
+166,834.0,TZA,Tanzania,Sub-Saharan Africa,31.1,2020
+167,800.0,UGA,Uganda,Sub-Saharan Africa,35.6,2020
+168,804.0,UKR,Ukraine,Former Soviet States,49.5,2020
+169,858.0,URY,Uruguay,Latin America & Caribbean,49.1,2020
+170,840.0,USA,United States of America,Global West,69.3,2020
+171,860.0,UZB,Uzbekistan,Former Soviet States,44.3,2020
+172,670.0,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,48.4,2020
+173,862.0,VEN,Venezuela,Latin America & Caribbean,50.3,2020
+174,704.0,VNM,Viet Nam,Asia-Pacific,33.4,2020
+175,548.0,VUT,Vanuatu,Asia-Pacific,28.9,2020
+176,882.0,WSM,Samoa,Asia-Pacific,37.3,2020
+177,710.0,ZAF,South Africa,Sub-Saharan Africa,43.1,2020
+178,894.0,ZMB,Zambia,Sub-Saharan Africa,34.7,2020
+179,716.0,ZWE,Zimbabwe,Sub-Saharan Africa,37.0,2020
